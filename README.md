@@ -7,3 +7,5 @@ was horizontal I supplied power to each level using 6 wires (Blue wires in the b
 (All the red cables on the bottom). With this set up I was able to select exact rows and columns I wanted to light up.
 The code provided makes the cube dance to music using an ardunio microphone. Based on the level of noise in the surrondings it would light
 up different levels.
+
+Picture- https://drive.google.com/file/d/1oPVjxantHTIfS0OhsY-fhp_gjyQL3Jcd/view?usp=sharing
